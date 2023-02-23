@@ -7,5 +7,5 @@ In this session, we’ll give an overview of how web scraping works, talk about 
 
 **Presented by:**
 
-Kristin Yeager (@kyeager4) *Head, Statistical Consulting*
+Kristin Yeager (@kyeager4) *Head, Statistical Consulting* &
 Moira O'Neill @moira-du-monde) *Graduate Assistant, Statistical Consulting*
